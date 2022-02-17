@@ -9,7 +9,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Data Scientist** with a Msc. in Applied Computing.systems.
+💻 I’m a **Data Scientist** with a Msc. in Applied Computing.
 </br> </br>
 👨🏼‍💻 I'm also an **artificial intelligence technical instructor** and advisor who enjoy providing mentorship.
  </br></br>

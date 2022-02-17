@@ -7,7 +7,7 @@ I'm a Data Scientist with a Msc. in Applied Computing.
 I'm also a technical instructor and advisor who enjoy providing mentorship.
 
 Feel more than welcome to contact me if you need any help or want to discuss any Data Science topic!
-<br />
+<hr />
 <a href="https://www.linkedin.com/in/estebanvz/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>

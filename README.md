@@ -19,7 +19,6 @@
  I love to solve business problems with data. In my job, I capture hidden patterns on data using Artificial Intelligence like Machine Learning and Optimization.
  </b></i>
   
-<br/>
 <hr />
 
 <div align="center">
@@ -30,7 +29,7 @@
 
 ## Technologies I love and use
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 

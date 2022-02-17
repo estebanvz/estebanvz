@@ -10,17 +10,13 @@ Feel more than welcome to contact me if you need any help or want to discuss any
 
 ### Hi there! I'm Esteban Vilca, welcome to my GitHub. 💻
 
-<hr />
-<br/>
-
+<br />
 <a href="https://www.linkedin.com/in/estebanvz/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:esteban.wilfredo.g@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-<br/>
 <br/>
 
 ### About Me 🚀

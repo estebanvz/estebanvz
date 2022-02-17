@@ -19,7 +19,7 @@ Feel more than welcome to contact me if you need any help or want to discuss any
 ### About Me 🚀
 💻 I’m a **Data Scientist** with a Msc. in Applied Computing.systems.
 </br> </br>
-👨🏼‍💻 I'm also an ** artificial intelligence technical instructor** and advisor who enjoy providing mentorship.
+👨🏼‍💻 I'm also an **artificial intelligence technical instructor** and advisor who enjoy providing mentorship.
  </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any Data Science or Artificial Intelligence topic! </br></br>
    

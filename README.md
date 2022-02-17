@@ -1,13 +1,5 @@
 # Hi there! I'm Esteban Vilca, welcome to my GitHub. :earth_americas:
 
-## About Me:
-
-I'm a Data Scientist with a Msc. in Applied Computing.
-
-I'm also a technical instructor and advisor who enjoy providing mentorship.
-
-Feel more than welcome to contact me if you need any help or want to discuss any Data Science topic!
-<hr />
 <a href="https://www.linkedin.com/in/estebanvz/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>

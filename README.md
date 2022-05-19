@@ -6,6 +6,9 @@
 <a href="mailto:esteban.wilfredo.g@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="[mailto:esteban.wilfredo.g@gmail.com](https://www.youtube.com/channel/UCwvOW70Ga0nVCxCgHPuu8LA)">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <br/>
 
 ### About Me 🚀

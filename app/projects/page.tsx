@@ -16,7 +16,7 @@ import { SiGooglecolab } from "react-icons/si";
 
 
 export default function Home() {
-  const data = [
+  const data:any = [
   //   {
   //   "title": "titulo",
   //   "categories": ["machine learning"],
